@@ -45,7 +45,7 @@
     "md5": "^2.3.0",
     "path": "^0.12.7",
     "query-string": "^7.0.1",
-    "semver": "^7.3.2",
+    "semver": "^7.3.7",
     "uuid": "^8.3.2",
     "zlib": "^1.0.5"
   },
@@ -58,7 +58,7 @@
     "@types/long": "4.0.1",
     "@types/nock": "^11.1.0",
     "@types/node": "^16.4.6",
-    "@types/semver": "^7.3.8",
+    "@types/semver": "^7.3.10",
     "@types/sinon": "^10.0.2",
     "@typescript-eslint/parser": "^4.29.1",
     "ava": "3.8.1",
